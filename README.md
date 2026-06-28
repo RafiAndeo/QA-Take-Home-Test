@@ -1,6 +1,6 @@
 # QA-Take-Home-Test
-QA Take Home Test from Paper that includes Section B and Section C for code tests
-Below are the instructions for setup the environment:
+QA Take Home Test from Paper that includes Section A, Section B, and Section C
+Below are the instructions for setup the environment on code tests:
 
 # Section B
 
